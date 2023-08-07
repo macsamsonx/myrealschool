@@ -44,40 +44,9 @@
                     <div class="mx-auto max-w-2xl lg:mx-0">
                         <div class="w-96 text-zinc-600 text-base font-bold uppercase leading-relaxed tracking-wider">why
                             choose us</div>
-                        <div class="w-96"><span style="text-zinc-900 text-5xl font-bold leading-10">Unlock Success
-                                With<br />My</span><span
-                                style="text-teal-900 text-5xl font-bold leading-10">Real</span><span
-                                style="text-lime-400 text-5xl font-bold leading-10">School</span><span
-                                style="text-zinc-900 text-5xl font-bold leading-10">: </span><span
-                                style="text-amber-300 text-5xl font-bold leading-10">Your<br />Path to Excellence</span>
-                        </div>
-                        <div class="w-96 text-zinc-600 text-lg font-normal leading-relaxed">Lorem ipsum dolor sit amet,
-                            consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore
-                            magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores</div>
-                        <div class="text-black text-lg font-bold leading-relaxed">Expert Trainers</div>
-                        <div class="w-8 h-8 relative flex-col justify-start items-start inline-flex">
-                            <div class="w-8 h-8 relative">
-                            </div>
-                        </div>
-                        <div class="text-black text-lg font-bold leading-relaxed">Online Learning</div>
-                        <div class="w-8 h-8 relative flex-col justify-start items-start inline-flex">
-                            <div class="w-8 h-8 relative">
-                            </div>
-                        </div>
-                        <div class="text-black text-lg font-bold leading-relaxed">Fully Approved By State</div>
-                        <div class="w-8 h-8 relative flex-col justify-start items-start inline-flex">
-                            <div class="w-8 h-8 relative">
-                            </div>
-                        </div>
-                        <div class="text-black text-lg font-bold leading-relaxed">Lifetime Access</div>
-                        <div class="w-8 h-8 relative flex-col justify-start items-start inline-flex">
-                            <div class="w-8 h-8 relative">
-                            </div>
-                        </div>
-                        <div
-                            class="w-48 h-16 px-10 py-5 bg-teal-900 rounded-3xl border border-teal-900 justify-center items-center gap-2.5 inline-flex">
-                            <div class="text-white text-lg font-bold">GET STARTED</div>
-                        </div>
+                        <h2 class="text-4xl font-bold text-zinc-900 sm:text-6xl mt-3">Unlock Success With
+                            MyRealSchool: Your
+                            Path to Excellence</h2>
                     </div>
                 </div>
 
