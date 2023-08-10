@@ -27,7 +27,7 @@ Route::get('/carrer-hub', function () {
     return view('welcome');
 })->name('carrer-hub');
 Route::get('/contact-us', function () {
-    return view('welcome');
+    return view('contactUs');
 })->name('contact-us');
 Route::get('/dashboard', function () {
     return view('dashboard');
