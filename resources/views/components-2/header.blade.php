@@ -1,4 +1,4 @@
-<header class="bg-white shadow">
+<header class="bg-white shadow" style="background-color: #F7FAFA">
     <nav class="mx-auto flex max-w-7xl items-center justify-between p-4 lg:px-8" aria-label="Global">
         <div class="flex lg:flex-1">
             <a href="{{ route('home') }}" class="">
