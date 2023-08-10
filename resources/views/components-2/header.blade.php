@@ -18,7 +18,7 @@
         </div>
         <div class="hidden lg:flex lg:gap-x-12">
             @php
-                $routes = ['home', 'pricing', 'why-us', 'carrer-hub', 'contact-us'];
+                $routes = ['home', 'pricing', 'why-us', 'carrer-hub', 'FAQs', 'contact-us'];
             @endphp
             @foreach ($routes as $route)
                 <div class="px-1 py-1">
