@@ -47,7 +47,7 @@
                 </div>
                 <div style="width: 436px">
                     <span style="color: #181C1D; font-size: 48px; font-family: DM Sans; font-weight: 700; line-height: 58px; word-wrap: break-word">Get in Touch With </span>
-                    <span style="color: #D3D04F; font-size: 48px; font-family: DM Sans; font-weight: 700; line-height: 58px; word-wrap: break-word">Our Professionals</span></div>
+                    <span style="color: #D3D04F; font-size: 48px; font-family: DM Sans; font-weight: 700; line-height: 58px; word-wrap: break-word">Our Professionals</span>
                 </div>
         </div>
 
